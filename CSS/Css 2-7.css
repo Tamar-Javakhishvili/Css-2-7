@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.mainContainer {
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+    background: #1B0E0F
+}
+
+.mainContainerMargin {
+    margin-top: 226px;
+    margin-bottom: 226px;
+}
+    
+
+.mainContainerBackground {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0px;
+    background: #FFF;
+}
+
+
+/*header*/
+
+
+.headerContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 32px;
+    text-align: center;
+    margin-bottom: 56px;
+}
+
+.blogHeader {
+    color: #002AFE;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.mainHeader {
+    color: #181D27;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 60px; 
+    letter-spacing: -0.96px;
+    margin-bottom: 24px;
+}
+
+.mainText {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+
+/*main*/
+
+
+.articleContainer {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 56px; 
+}
+
+.articleImg {
+    border-radius: 16px;
+    height: 462px;
+    vertical-align: middle;
+    margin-right: 90px;
+}
+
+.articleTextContainer {
+    max-width: 584px;
+    width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+ 
+.articleTextMiniHeader {
+    color: #6941C6;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+
+.articleTextHeader {
+    max-width: 544px;
+    width: 100%;
+    color: #181D27;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    margin-bottom: 8px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.arrow {
+    padding-top: 4px;
+    height: 28px;
+    vertical-align: top;
+}
+
+.articleText {
+    color: #535862;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    height: 143px;
+    margin-bottom: 24px;
+}
+
+.avatar {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.personalInfo {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.name {
+    color: #181D27;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.date {
+    color: #535862;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+}
